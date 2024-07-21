@@ -1,7 +1,7 @@
 import java.util.*;
 // an algo to check if a string has all unique characters, what if you cannot use additional ds
 //#1 trying solve using bit manipulation
-public class Problem{
+public class isUniqueChar{
     public static void main(String[] args) {
         System.out.println(isUniqueChar("Hars"));
     }
